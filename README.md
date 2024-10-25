@@ -50,7 +50,7 @@ La cartella che ospita il codice del nostro sito (**website**) viene montata aut
 1. Clonare il repository:
 
    ```bash
-   git clone https://github.com/RodriguezKeisy/Vagrantfile.git
+   git clone https://github.com/RodriguezKeisy/Vagrantfile-multimacchine
    cd Vagrantfile
    ```
 
